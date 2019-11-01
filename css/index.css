@@ -93,13 +93,16 @@ p {
 .middle-content h2 {
     padding: 0 2%;
     margin-bottom: 0;
+
 }
 
 .middle-content .boxes {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
+    
 }
+
 
 .middle-content .boxes .box {
     width: 12.5%;
